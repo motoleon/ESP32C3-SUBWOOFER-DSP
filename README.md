@@ -14,6 +14,7 @@ CHEAPEST SUBWOOFER DSP WITH ONLY ONE ESP32 C3 AND PCM5102 (INMP441 IN PROCESS)
 
 motoleonx@gmail.com (youtube https://www.youtube.com/@motoleonx)
 
+https://www.youtube.com/watch?v=qIlphXRyKIc
 
 
 # LFE DSP: Procesador Digital de Subwoofer de Código Abierto
